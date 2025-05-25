@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **deployedByLeanna/deployedByLeanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,9 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@deployed_ByLeanna"><img src="https://yt3.googleusercontent.com/6wRQ_E2QNITanRnlGpgxiT5GcmU5Pcpba5iGP6_c_ZZ6L47caEL5f-_niK7kpF_hJy_0huZi=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%" height="auto"/></a>
 
 <p align="center">
-<img src="https://gifdb.com/images/high/anime-girl-doing-fast-typing-74vag9n7is9rzqv2.gif" width="100%" height="auto"/>
+<img src="https://gifdb.com/images/high/anime-girl-doing-fast-typing-74vag9n7is9rzqv2.gif" width="25%" height="auto"/>
+</p>
+<p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
