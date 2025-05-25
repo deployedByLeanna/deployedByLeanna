@@ -12,27 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.youtube.com/@deployed_ByLeanna"><img src="https://yt3.googleusercontent.com/6wRQ_E2QNITanRnlGpgxiT5GcmU5Pcpba5iGP6_c_ZZ6L47caEL5f-_niK7kpF_hJy_0huZi=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%" height="auto"/></a>
-
 <p align="center">
-<img src="https://gifdb.com/images/high/anime-girl-doing-fast-typing-74vag9n7is9rzqv2.gif" width="25%" height="auto"/>
-</p>
-<p align="center">
+    <a href="https://www.youtube.com/@deployed_ByLeanna"><img src="https://yt3.googleusercontent.com/6wRQ_E2QNITanRnlGpgxiT5GcmU5Pcpba5iGP6_c_ZZ6L47caEL5f-_niK7kpF_hJy_0huZi=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%" height="auto"/></a>
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
   <a href="https://discord.gg/lebonbonanna" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  
   <a href="https://ko-fi.com/deployedbyleanna"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 
 </p>
 
 <br/>
-
+<p align="center">
+<img src="https://gifdb.com/images/high/anime-girl-doing-fast-typing-74vag9n7is9rzqv2.gif" width="25%" height="auto"/>
+</p>
 ### :man_technologist: About Me :
   I am a Multimedia Artist and aspiring Application Developer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvd3Z5MDA4NjltbWJtZnpobzM3ZTJ4ZDUwMG50bzBzYmtwdnozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="30"> from the Bay Area.
 - :telescope: I’m studying GIT Full-Stack Web Development at ASU.
