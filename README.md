@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <a href="https://www.youtube.com/@deployed_ByLeanna"><img src="/Screenshot 2025-05-26 at 11.00.38 AM.png" width="100%" height="auto"/></a>
-    <br/>
+    
+  <br/>
+  <br/>
+  <br/>
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/lebonbonanna" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/deployedbyleanna"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://www.behance.net/leannabonalba"><img width="32px" alt="BeHance" title="BeHance" src="https://i.imgur.com/HQR1o0z.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -33,9 +39,9 @@ Here are some ideas to get you started:
 </p>
 
   I am a Multimedia Artist and aspiring Application Developer from the Bay Area.
-- :telescope: I’m studying GIT Full-Stack Web Development at ASU.
+- :telescope: I’m studying Graphic Information Full-Stack Web Development at Arizona State University.
 
-- :seedling: Exploring creating and using AI & automations.
+- :seedling: Currently exploring AI & creating automations.
 
 
 - :mailbox:Connect with me on LinkedIn!: [![Linkedin Badge](https://img.shields.io/badge/-Leanna-Bonalba-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
