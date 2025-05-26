@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <a href="https://www.youtube.com/@deployed_ByLeanna"><img src="https://yt3.googleusercontent.com/6wRQ_E2QNITanRnlGpgxiT5GcmU5Pcpba5iGP6_c_ZZ6L47caEL5f-_niK7kpF_hJy_0huZi=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%" height="auto"/></a>
+    <a href="https://www.youtube.com/@deployed_ByLeanna"><img src="/Screenshot 2025-05-26 at 11.00.38 AM.png" width="100%" height="auto"/></a>
     <br/>
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
