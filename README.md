@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 
 
 ### :man_technologist: About Me :
-<p align="center">
-<img src="https://gifdb.com/images/high/anime-girl-doing-fast-typing-74vag9n7is9rzqv2.gif" width="25%" height="auto"/>
-</p>
 
   I am a Multimedia Artist and aspiring Application Developer from the Bay Area.
 - :telescope: I’m studying Graphic Information Full-Stack Web Development at Arizona State University.
@@ -59,7 +56,7 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=transparent)
+![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=onedark&hide_rank)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcroci&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
