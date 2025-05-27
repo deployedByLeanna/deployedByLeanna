@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - :seedling: Currently exploring AI & creating automations.
 
-- :target: Some of my hobbies include: 
+- :bullseye: Some of my hobbies include: 
     - Producing music<img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
     - Wheel pottery <img width="32px" alt="froggie gif" title="lil froggie" src="https://art.pixilart.com/01a55d5db575d20.png"/>
     - Making aquariums <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
