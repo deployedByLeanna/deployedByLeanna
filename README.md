@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
 ## :hammer_and_wrench: Languages and Tools :
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deployedbyleanna&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deployedbyleanna&layout=compact&theme=rose)
 
 
 ## :fire: My Stats :
-![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=onedark&hide_rank=true)
+![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=rose&hide_rank=true)
 
 <p align="center">
 <img width="30%" alt="kirby" title="kirby" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="kirby" title="kirby" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="kirby" title="kirby" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
