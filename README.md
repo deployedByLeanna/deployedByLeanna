@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/deployedbyleanna"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/leanna-bonalba"><img width="32px" alt="BeHance" title="BeHance" src="https://img.icons8.com/?size=100&id=qTcO3Z0hv3pZ&format=png&color=FB4F73"/></a>
+  <a href="https://www.behance.net/leannabonalba"><img width="32px" alt="BeHance" title="BeHance" src="https://img.icons8.com/?size=100&id=qTcO3Z0hv3pZ&format=png&color=FB4F73"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/leannabonalba"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FB4F73"/></a>
+  <a href="https://www.linkedin.com/in/leanna-bonalba"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FB4F73"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
