@@ -63,11 +63,7 @@ Here are some ideas to get you started:
 
 <img width="32px" alt="froggie gif" title="lil froggie" src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/200w.gif?cid=6c09b95236eh5e5se7tdsm47gmc8f4xl0f7gtehpb8ti2hq1&ep=v1_stickers_search&rid=200w.gif&ct=s"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/deployedbyleanna/deployedbyleanna/output/dist/github-snake.svg)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcroci&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
