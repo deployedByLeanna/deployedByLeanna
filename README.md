@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 - :seedling: Currently exploring AI & creating automations.
 
 - :target: Some of my hobbies include: 
-    <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>Producing music
-    <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/NpFyI2dcvhQAAAAM/niziu-mayuka.gif"/>wheel pottery
-    <img width="32px" alt="froggie gif" title="lil froggie" src="https://media1.tenor.com/m/C-i2hreMqtEAAAAd/kirby-right-back-at-ya-kirby-anime.gif"/>making aquariums
-    <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/R3p7QM0nPKIAAAAi/kirby-nintendo.gif"/>cooking, but mostly eating<img width="32px" alt="froggie gif" title="lil froggie" src="https://media1.tenor.com/m/7I9nkd071vYAAAAC/food-coma-food.gif"/>
+    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>Producing music
+    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/NpFyI2dcvhQAAAAM/niziu-mayuka.gif"/>wheel pottery
+    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media1.tenor.com/m/C-i2hreMqtEAAAAd/kirby-right-back-at-ya-kirby-anime.gif"/>making aquariums
+    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/R3p7QM0nPKIAAAAi/kirby-nintendo.gif"/>cooking, but mostly eating<img width="32px" alt="froggie gif" title="lil froggie" src="https://media1.tenor.com/m/7I9nkd071vYAAAAC/food-coma-food.gif"/>
 
 - :mailbox: Connect with me on LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
 
