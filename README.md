@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Some of my hobbies include:
   - Producing music<img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
-    - Wheel pottery <img width="32px" alt="froggie gif" title="lil froggie" src="https://art.pixilart.com/01a55d5db575d20.png"/>
-    - Making aquariums <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
-    - Cooking, but mostly eating <img width="32px" alt="froggie gif" title="lil froggie" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82111922-c6aa-4666-a38a-344045b1deba/dei0g2u-57f072ae-f1ba-4350-8710-062a4434efa4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMTExOTIyLWM2YWEtNDY2Ni1hMzhhLTM0NDA0NWIxZGViYVwvZGVpMGcydS01N2YwNzJhZS1mMWJhLTQzNTAtODcxMC0wNjJhNDQzNGVmYTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.q2JGq6b1CveKU3nP5KAyrnMssb2WNVihC58_8sr1aN0"/>
+  - Wheel pottery <img width="32px" alt="froggie gif" title="lil froggie" src="https://art.pixilart.com/01a55d5db575d20.png"/>
+  - Making aquariums <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
+  - Cooking, but mostly eating <img width="32px" alt="froggie gif" title="lil froggie" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82111922-c6aa-4666-a38a-344045b1deba/dei0g2u-57f072ae-f1ba-4350-8710-062a4434efa4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMTExOTIyLWM2YWEtNDY2Ni1hMzhhLTM0NDA0NWIxZGViYVwvZGVpMGcydS01N2YwNzJhZS1mMWJhLTQzNTAtODcxMC0wNjJhNDQzNGVmYTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.q2JGq6b1CveKU3nP5KAyrnMssb2WNVihC58_8sr1aN0"/>
 
 ### :mailbox: Connect with me on LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
   <br/>
