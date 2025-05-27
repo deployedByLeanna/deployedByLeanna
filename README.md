@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img width="32px" alt="Youtube" title="Youtube" src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/200w.gif?cid=6c09b95236eh5e5se7tdsm47gmc8f4xl0f7gtehpb8ti2hq1&ep=v1_stickers_search&rid=200w.gif&ct=s"/>
+<p align="center">
 
 ### :man_technologist: About Me :
 
@@ -40,8 +40,15 @@ Here are some ideas to get you started:
 
 - :seedling: Currently exploring AI & creating automations.
 
+- :target: Some of my hobbies include:
+- :guitar: Producing music
+- :clay: Wheel pottery
+- :fish: Making aquariums
+- :chef: Cooking, but mostly eating
 
-- :mailbox: Connect with me on LinkedIn!: [![Linkedin Badge](https://img.shields.io/badge/-Leanna-Bonalba-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
+- :mailbox: Connect with me on LinkedIn!: [![Linkedin Badge](https://img.shields.io/badge/-Leanna-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
+
+</p>
 
 ---
 
@@ -54,7 +61,33 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 ![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=onedark&hide_rank=true)
 
+<img width="32px" alt="froggie gif" title="lil froggie" src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/200w.gif?cid=6c09b95236eh5e5se7tdsm47gmc8f4xl0f7gtehpb8ti2hq1&ep=v1_stickers_search&rid=200w.gif&ct=s"/>
 
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.deployedbyLeanna }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcroci&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
