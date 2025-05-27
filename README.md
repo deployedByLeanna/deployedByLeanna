@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/deployedbyleanna"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
   <a href="https://www.behance.net/leannabonalba"><img width="32px" alt="BeHance" title="BeHance" src="https://i.imgur.com/HQR1o0z.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
