@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-## :man_technologist: About Me :
+## :man_technologist: About Me
 
   ##### :computer: I am a Multimedia Artist and aspiring Application Developer from the Bay Area.
   ##### :telescope: I’m studying Graphic Information Full-Stack Web Development at Arizona State University.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-### ⚡ Some of my hobbies include:
+## ⚡ Interests
   - Producing music<img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
   - Wheel pottery <img width="32px" alt="froggie gif" title="lil froggie" src="https://art.pixilart.com/01a55d5db575d20.png"/>
   - Making aquariums <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
@@ -49,12 +49,10 @@ Here are some ideas to get you started:
 
 ### :mailbox: Connect with me on LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
   <br/>
+<p align="center">
+<img width="30%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
   <br/>
-  <br/>
-<img width="50%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
-  <br/>
-  <br/>
-  <br/>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
