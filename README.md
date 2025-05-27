@@ -43,13 +43,14 @@ Here are some ideas to get you started:
 - :target: Some of my hobbies include: 
     - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>Producing music
     - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/NpFyI2dcvhQAAAAM/niziu-mayuka.gif"/>wheel pottery
-    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media1.tenor.com/m/C-i2hreMqtEAAAAd/kirby-right-back-at-ya-kirby-anime.gif"/>making aquariums
-    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/R3p7QM0nPKIAAAAi/kirby-nintendo.gif"/>cooking, but mostly eating<img width="32px" alt="froggie gif" title="lil froggie" src="https://media1.tenor.com/m/7I9nkd071vYAAAAC/food-coma-food.gif"/>
+    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>making aquariums
+    - <img width="32px" alt="froggie gif" title="lil froggie" src="https://pa1.aminoapps.com/6324/97568d56018a7e0cf4810913d4462a375f49bd77_00.gif"/>cooking, but mostly eating<img width="32px" alt="froggie gif" title="lil froggie" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c5f4706-2350-48a9-bba0-1baa380663a4/dbo2d57-88d2e42c-cf93-4256-8435-7749a0eaa81a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjNWY0NzA2LTIzNTAtNDhhOS1iYmEwLTFiYWEzODA2NjNhNFwvZGJvMmQ1Ny04OGQyZTQyYy1jZjkzLTQyNTYtODQzNS03NzQ5YTBlYWE4MWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TOeFVEsTS6c5_ujDI7lhosQ1nsWxt_n68J5ZEB_zupk"/>
 
 - :mailbox: Connect with me on LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
 
 </p>
 
+<img width="32px" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
