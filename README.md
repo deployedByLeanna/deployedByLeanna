@@ -49,9 +49,13 @@ Here are some ideas to get you started:
 - :mailbox: Connect with me on LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
 
 </p>
-
-<img width="100%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
----
+  <br/>
+  <br/>
+  <br/>
+<img width="50%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
+  <br/>
+  <br/>
+  <br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
