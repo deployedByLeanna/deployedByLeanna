@@ -33,11 +33,13 @@ Here are some ideas to get you started:
 
 
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
   ##### :computer: I am a Multimedia Artist and aspiring Application Developer from the Bay Area.
   ##### :telescope: I’m studying Graphic Information Full-Stack Web Development at Arizona State University.
   ##### :seedling: Currently exploring AI & creating automations.
+
+
 
 ### ⚡ Some of my hobbies include:
   - Producing music<img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
