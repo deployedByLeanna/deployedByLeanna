@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.behance.net/leannabonalba"><img width="32px" alt="BeHance" title="BeHance" src="https://img.icons8.com/?size=100&id=qTcO3Z0hv3pZ&format=png&color=FB4F73"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/leannabonalba"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=FB4F73"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-## :man_technologist: About Me
+## <img width="32px" alt="star" title="" src="https://img.icons8.com/?size=100&id=fFxJbHvoteZT&format=png&color=000000"/>  About Me
 
   ##### :computer: I am a Multimedia Artist and aspiring Application Developer from the Bay Area.
   ##### :telescope: I’m studying Graphic Information Full-Stack Web Development at Arizona State University.
@@ -41,16 +43,16 @@ Here are some ideas to get you started:
 
 
 
-## ⚡ Interests
-  - Producing music<img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
-  - Wheel pottery <img width="32px" alt="froggie gif" title="lil froggie" src="https://art.pixilart.com/01a55d5db575d20.png"/>
-  - Making aquariums <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
-  - Cooking, but mostly eating <img width="32px" alt="froggie gif" title="lil froggie" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82111922-c6aa-4666-a38a-344045b1deba/dei0g2u-57f072ae-f1ba-4350-8710-062a4434efa4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMTExOTIyLWM2YWEtNDY2Ni1hMzhhLTM0NDA0NWIxZGViYVwvZGVpMGcydS01N2YwNzJhZS1mMWJhLTQzNTAtODcxMC0wNjJhNDQzNGVmYTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.q2JGq6b1CveKU3nP5KAyrnMssb2WNVihC58_8sr1aN0"/>
+## <img width="32px" alt="star" title="star" src="https://img.icons8.com/?size=100&id=fFxJbHvoteZT&format=png&color=000000"/> Interests
+  - Producing music<img width="32px" alt="kirby" title="kirby" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
+  - Wheel pottery <img width="32px" alt="kirby" title="kirby" src="https://art.pixilart.com/01a55d5db575d20.png"/>
+  - Making aquariums <img width="32px" alt="kirby" title="kirby" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
+  - Cooking, but mostly eating <img width="32px" alt="kirby" title="kirby" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82111922-c6aa-4666-a38a-344045b1deba/dei0g2u-57f072ae-f1ba-4350-8710-062a4434efa4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMTExOTIyLWM2YWEtNDY2Ni1hMzhhLTM0NDA0NWIxZGViYVwvZGVpMGcydS01N2YwNzJhZS1mMWJhLTQzNTAtODcxMC0wNjJhNDQzNGVmYTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.q2JGq6b1CveKU3nP5KAyrnMssb2WNVihC58_8sr1aN0"/>
 
 ### :mailbox: Connect with me on LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leanna-bonalba/)
   <br/>
 <p align="center">
-<img width="30%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
+<img width="30%" alt="kirby" title="kirby" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="kirby" title="kirby" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/><img width="30%" alt="kirby" title="kirby" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
   <br/>
 </p>
 
@@ -63,7 +65,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 ![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=onedark&hide_rank=true)
 
-<img width="32px" alt="froggie gif" title="lil froggie" src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/200w.gif?cid=6c09b95236eh5e5se7tdsm47gmc8f4xl0f7gtehpb8ti2hq1&ep=v1_stickers_search&rid=200w.gif&ct=s"/>
+<img width="32px" alt="kirby" title="kirby" src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/200w.gif?cid=6c09b95236eh5e5se7tdsm47gmc8f4xl0f7gtehpb8ti2hq1&ep=v1_stickers_search&rid=200w.gif&ct=s"/>
 
 ![Snake animation](https://raw.githubusercontent.com/deployedbyleanna/deployedbyleanna/output/dist/github-snake.svg)
 
