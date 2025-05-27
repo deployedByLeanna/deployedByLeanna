@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 <br/>
 
+<img width="32px" alt="Youtube" title="Youtube" src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/200w.gif?cid=6c09b95236eh5e5se7tdsm47gmc8f4xl0f7gtehpb8ti2hq1&ep=v1_stickers_search&rid=200w.gif&ct=s"/>
 
 ### :man_technologist: About Me :
 
@@ -53,7 +54,6 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 ![Leanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=deployedbyleanna&show_icons=true&theme=onedark&hide_rank=true)
 
-### :fire: My Stats :
 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcroci&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
