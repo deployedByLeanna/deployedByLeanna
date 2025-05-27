@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - :seedling: Currently exploring AI & creating automations.
 
-- :bullseye: Some of my hobbies include: 
+- ⚡ Some of my hobbies include: 
     - Producing music<img width="32px" alt="froggie gif" title="lil froggie" src="https://media.tenor.com/fuu6MHcsfEMAAAAi/toons-music.gif"/>
     - Wheel pottery <img width="32px" alt="froggie gif" title="lil froggie" src="https://art.pixilart.com/01a55d5db575d20.png"/>
     - Making aquariums <img width="32px" alt="froggie gif" title="lil froggie" src="https://cdn.custom-progressbar.com/uploads/kirby_swim_pixel_custom_progress_bar_a_4fb81d9eb5.gif"/>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<img width="32px" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
+<img width="100%" alt="froggie gif" title="lil froggie" src="https://64.media.tumblr.com/05f0c118499eb6793f2284a149ecaaf8/tumblr_inline_ob02j14hgA1qzyeav_500.gif"/>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
