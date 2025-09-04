@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/J_2cjHivgyM/mqdefault_6s.webp?du=3000&sqp=CKy_58UG&rs=AOn4CLABI_y-kzFT_SGrstrfI6ZIC8MyXg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/J_2cjHivgyM?si=tZfRaT8_yYfp5v6D))
+<br/>
+^ Latest Video on YouTube! ^
 
 ## <img width="32px" alt="star" title="" src="https://img.icons8.com/?size=100&id=fFxJbHvoteZT&format=png&color=000000"/>  About Me
 
