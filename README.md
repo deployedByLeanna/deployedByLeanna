@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/J_2cjHivgyM/mqdefault_6s.webp?du=3000&sqp=CKy_58UG&rs=AOn4CLABI_y-kzFT_SGrstrfI6ZIC8MyXg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/J_2cjHivgyM?si=tZfRaT8_yYfp5v6D))
+[![Spline Avatar Timelapse](https://i.ytimg.com/an_webp/J_2cjHivgyM/mqdefault_6s.webp?du=3000&sqp=CKy_58UG&rs=AOn4CLABI_y-kzFT_SGrstrfI6ZIC8MyXg)](https://www.youtube.com/watch?v=J_2cjHivgyM)
 <br/>
 ^ Latest Video on YouTube! ^
 
